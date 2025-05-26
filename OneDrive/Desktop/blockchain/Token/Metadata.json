@@ -1,0 +1,27 @@
+[{
+  "description": "When brothers battle", 
+  "external_url": "https://openseacreatures.io/3", 
+  "image": "https://peach-brilliant-possum-725.mypinata.cloud/ipfs/bafybeidwul74ofcpunkwqbiba5y67lavn2dwgdvquu77ud6rtzb4xpvxlq", 
+  "name": "Naruto",
+  "attributes": [  {
+      "trait_type": "Color", 
+      "value": "blue and Yellow"
+    }, 
+    {
+      "trait_type": "Eyes", 
+      "value": "Big"
+    } ]
+},
+{
+  "description": "Car", 
+  "external_url": "https://openseacreatures.io/3", 
+  "image": "https://peach-brilliant-possum-725.mypinata.cloud/ipfs/bafybeig4tv2j2hxy37h2z5l7fx62wn74t537uax3rncasgzilgdiyd4lgy", 
+  "name": "Mercedes",
+  "attributes": [  {
+      "trait_type": "Color", 
+      "value": "blue and red"
+    }
+     ]
+}
+
+]
